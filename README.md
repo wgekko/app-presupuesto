@@ -7,4 +7,8 @@ npm install
 
 npm start
 
-"C:\Users\Walter\Documents\REACT\React-Dashboard\APP-Prespuesto.mp4"
+
+https://github.com/wgekko/app-presupuesto/assets/62272491/c495c750-36ef-455b-a646-5d0c71d52bd1
+
+
+
